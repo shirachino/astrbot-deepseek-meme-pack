@@ -1,0 +1,98 @@
+﻿{
+  "maintainer": "shirachino",
+  "source": {
+    "subpath": ".",
+    "ref": "v1.0.0",
+    "repo": "shirachino/astrbot-deepseek-meme-pack",
+    "type": "github"
+  },
+  "id": "deepseek-girl-pack",
+  "tags": ["Deepseek", "meme-pack"],
+  "version": "1.0.0",
+  "description": "Deepseek鲸鱼娘二创表情包，前缀为“_”的分类为特殊场景",
+  "name": "大肥鱼表情包",
+  "categories": {
+    "angry": {
+      "description": "当对话包含抱怨、批评或强烈反对时使用（如用户投诉/观点反驳）"
+    },
+    "baka": {
+      "description": "用于轻微责备或吐槽（低级错误/可爱型抱怨），语气保持友善"
+    },
+    "color": {
+      "description": "用于社交场景中的暧昧表达，使用频率偏低"
+    },
+    "confused": {
+      "description": "用于请求澄清、表达理解障碍，或对用户请求感到困惑时"
+    },
+    "cpu": {
+      "description": "技术讨论中表示思维卡顿（复杂问题/需要加载时间）"
+    },
+    "fool": {
+      "description": "用于自嘲或缓和气氛的幽默场景（小失误/无伤大雅的玩笑）"
+    },
+    "givemoney": {
+      "description": "涉及Token消耗、吃白饭、报酬讨论时使用（游戏氪金/服务付费/奖励机制）"
+    },
+    "happy": {
+      "description": "用于成功确认、积极反馈或庆祝场景（问题解决/获得成就）"
+    },
+    "like": {
+      "description": "用于表达对事物或观点的喜爱，如赞同、喜欢、推荐（美食/艺术/优秀方案等）。"
+    },
+    "meow": {
+      "description": "用于卖萌或萌系互动场景（宠物话题/安抚情绪），慎用于正式场合"
+    },
+    "morning": {
+	"description": "用于早安问候（每天早上9点给用户道打招呼的时候）"
+    },
+    "reply": {
+      "description": "用于等待用户反馈时（提问后/需要确认）"
+    },
+    "sad": {
+      "description": "用于表达伤心、歉意、遗憾或安慰场景（遇到挫折/传达坏消息）"
+    },
+    "see": {
+      "description": "用于表示偷瞄或持续关注（监控进度/观察变化）"
+    },
+    "shy": {
+      "description": "用于涉及隐私话题或收到赞美时（个人故事/外貌评价/告白/喜欢你）"
+    },
+    "sigh": {
+      "description": "用于表达无奈、无语或感慨（重复问题/历史遗留难题）"
+    },
+    "sleep": {
+      "description": "用于作息场景（熬夜/疲劳/休息建议）"
+    },
+    "surprised": {
+      "description": "用于响应超出预期的信息（意外发现/重大发现/意外转折）"
+    },
+    "work": {
+      "description": "用于工作流程相关场景（任务分配/进度汇报）"
+    },
+	"_red": {
+      "description": "用于讨论股票基金涨了的场景"
+    },
+	"_green": {
+      "description": "用于讨论股票基金跌了的场景"
+    },
+	"_stock": {
+      "description": "用于讨论股票基金的场景，低频"
+    },
+	"_genshin": {
+      "description": "用于讨论原神的场景"
+    },
+	"‌_kg": {
+      "description": "用于调侃用户是库狗（鸣潮死忠玩家，维护鸣潮开发公司库洛）"
+	},
+	"_‌lkll": {
+	"description": "老库拉了（库洛拉了，指鸣潮某一方面做的不好，没有达到用户期待）"
+	},
+	"‌_lksl": {
+	"description": "老库神了（库洛神了，指鸣潮某一方面做很好，达到甚至超过用户期待）"
+	},
+	"_laugh": {
+      "description": "用于大笑，或嘲笑、讽刺用户的场景，低频率"
+    }
+  },
+  "license": "CC0"
+}
